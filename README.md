@@ -9,10 +9,10 @@ To address these research questions, this analysis leverages the OECD’s [STIP 
 
 It's worth mentioning some of the high level characteristics of the dataset:
 - Columns are roughly classified into four groups:
-  a. Policy initiatives - includes initiative ID, country, budget range and other information relevant at the initiative level
-  b. Themes - initiatives are classified in themes, such as high-risk high-reward research; theme columns have the "TH" prefix
-  c. Target groups - initiatives have at least one target group, such as academic societies / academies; these have the "TG" prefix
-  d. Policy instruments - initiatives are enacted through instruments, such as project grants for public research; most of these have the "F" prefix
+  - Policy initiatives - includes initiative ID, country, budget range and other information relevant at the initiative level
+  - Themes - initiatives are classified in themes, such as high-risk high-reward research; theme columns have the "TH" prefix
+  - Target groups - initiatives have at least one target group, such as academic societies / academies; these have the "TG" prefix
+  - Policy instruments - initiatives are enacted through instruments, such as project grants for public research; most of these have the "F" prefix
 - One row in the dataset represents one policy instrument type used in an initiative. Note that a policy initiative can have from one to several instrument types
 - The second row in the dataset is a description column for the first row of the dataset, which means that the actual data entries start from the third row down
 
