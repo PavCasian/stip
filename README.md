@@ -1,5 +1,6 @@
 <h1 align="center">High-risk high-reward research exploratory analysis</h1>
-This short piece of analysis focuses on high-risk high-reward research, which is defined as research that involves a substantial level of risk due to its high degree of novelty and uncertainty. However, if it's successful it will have a significant impact in solving complex problems.  
+
+This short piece of analysis focuses on high-risk high-reward research, which is defined by [OECD](https://stip.oecd.org/stip/interactive-dashboards/themes/TH23) as research that involves a substantial level of risk due to its high degree of novelty and uncertainty. However, if it's successful it will have a significant impact in solving complex problems.  
 
 The main questions this analysis looks to answer are:
 1. What is the distribution of high-risk high-reward research initiatives per year?
