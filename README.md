@@ -37,6 +37,6 @@ Project grants for public research seem to be the most common policy instrument 
 
 <img width="1083" height="536" alt="budget_allocation" src="https://github.com/user-attachments/assets/6536de7b-6f26-4218-8344-a8723852c879" />
 
-Unsurprisingly, budget allocation follows a similar ranking to instrument types frequency mentioned above. Project grants for public research receive the highest overall funding, followed by strategies, agendas, and plans, and grants for business R&D and innovation.
+Unsurprisingly, count of budget allocations per instrument type follows a similar ranking to instrument types frequency mentioned above. Project grants for public research receive the highest overall funding, followed by strategies, agendas, and plans, and grants for business R&D and innovation.
 
 As we are interested in funding for each instrument type but we only have the overall funding for the initiative, which can involve multiple instrument types, we split the funding unit equally between the instruments types used for the initiative. For example, if an initiative uses four instrument types, each is credited with 0.25 (25%) of the allocated budget for the initiative. This explains why some of the final counts include decimal values. It is acknowledged that this is not a perfect measure as some instruments type may have received more or less money than other instrument types in the initiative.
